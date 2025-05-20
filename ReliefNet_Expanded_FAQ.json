@@ -1,0 +1,232 @@
+[
+ {
+   "category": "Mental Health Support",
+   "question": "How can I book a therapist?",
+   "answer": "You can book a therapist by visiting our website and selecting the 'Mental Health' section. Fill out the form and our team will contact you."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Do you offer online therapy sessions?",
+   "answer": "Yes, we offer online therapy sessions. You can choose this option while booking your appointment."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Can I choose the gender of my therapist?",
+   "answer": "Yes, you can mention your preference for a male or female therapist while booking."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "What is the cost of a therapy session?",
+   "answer": "The cost varies based on the therapist and session type. Please check our pricing page for details."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Do you provide emergency mental health support?",
+   "answer": "Yes, we provide a 24/7 helpline for emergency mental health support. Visit our Mental Health section."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Can I cancel or reschedule my therapy appointment?",
+   "answer": "Yes, appointments can be cancelled or rescheduled from your dashboard or by contacting our support team."
+ },
+ {
+   "category": "Home Nursing",
+   "question": "What is the process for booking a home nurse?",
+   "answer": "To book a home nurse, go to the 'Home Nursing' tab, choose your service type, and schedule a time slot."
+ },
+ {
+   "category": "Home Nursing",
+   "question": "Are your home nurses certified?",
+   "answer": "Yes, all our nurses are certified professionals with verified credentials."
+ },
+ {
+   "category": "Home Nursing",
+   "question": "Can I request a nurse for night care?",
+   "answer": "Yes, you can request night care based on nurse availability in your area."
+ },
+ {
+   "category": "Home Nursing",
+   "question": "What services do home nurses provide?",
+   "answer": "Home nurses provide wound care, injections, elderly care, and post-surgical assistance."
+ },
+ {
+   "category": "Home Nursing",
+   "question": "Is medical equipment included with nursing service?",
+   "answer": "Medical equipment like oxygen cylinders or beds may be arranged separately upon request."
+ },
+ {
+   "category": "Home Nursing",
+   "question": "How do I cancel a nursing appointment?",
+   "answer": "Appointments can be cancelled 24 hours in advance through your account or support team."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "What support is available for postpartum care?",
+   "answer": "We offer postpartum counseling, lactation consultation, and home visits. Visit our 'Women's Care' section for more details."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Do you provide lactation consultation?",
+   "answer": "Yes, certified lactation consultants are available for both in-person and online consultations."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Is there mental health support for new mothers?",
+   "answer": "Yes, new mothers can access therapy sessions specifically tailored for postpartum challenges."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Do you offer home visits for postpartum care?",
+   "answer": "Yes, our nurses and counselors can make scheduled home visits based on your location."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Are gynecological consultations available?",
+   "answer": "Yes, our team includes gynecologists available for consultations."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Is family planning counseling provided?",
+   "answer": "Yes, we provide family planning and reproductive health counseling in the Women’s Care section."
+ },
+ {
+   "category": "NGO Network",
+   "question": "How can I volunteer with an NGO?",
+   "answer": "To volunteer, check our 'NGO Network' section, choose a cause you care about, and fill out the volunteer form."
+ },
+ {
+   "category": "NGO Network",
+   "question": "What types of NGOs are in your network?",
+   "answer": "Our network includes NGOs working in healthcare, education, women's empowerment, and mental health."
+ },
+ {
+   "category": "NGO Network",
+   "question": "Do I need experience to volunteer?",
+   "answer": "No prior experience is required. We provide training and guidance for all volunteers."
+ },
+ {
+   "category": "NGO Network",
+   "question": "Can I start an NGO under ReliefNet?",
+   "answer": "Yes, you can partner with us to start an NGO by submitting a proposal through our onboarding form."
+ },
+ {
+   "category": "NGO Network",
+   "question": "Are there remote volunteering options?",
+   "answer": "Yes, many NGOs in our network offer remote opportunities including online tutoring and content creation."
+ },
+ {
+   "category": "NGO Network",
+   "question": "Is there any certification for volunteers?",
+   "answer": "Yes, volunteers receive a certificate of contribution upon successful participation."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "How do I find help for anxiety, stress, or mental peace?",
+   "answer": "You can access certified therapists through ReliefNet for issues related to anxiety, stress, or emotional well-being. Book a session directly from the Mental Health Support section."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Can I talk to someone anonymously if I feel low or depressed?",
+   "answer": "Yes, ReliefNet provides anonymous chat options with verified professionals for users who prefer confidentiality."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Is mental health help available in Hindi or regional languages?",
+   "answer": "Yes, multilingual therapists are available. You can filter therapists based on language preference."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Do I need a prescription for therapy?",
+   "answer": "No prescription is required to book therapy through ReliefNet."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Can I cancel or reschedule a therapy session?",
+   "answer": "Yes, sessions can be rescheduled or cancelled from your profile at least 24 hours in advance."
+ },
+ {
+   "category": "Mental Health Support",
+   "question": "Is there group therapy or community discussion support?",
+   "answer": "Yes, you can join anonymous community threads moderated by professionals for shared support."
+ },
+ {
+   "category": "Home Nursing & Elderly Care",
+   "question": "How can I arrange a home nurse for my elderly parent?",
+   "answer": "You can book trained, background-verified nurses directly through the app under the Home Nursing section."
+ },
+ {
+   "category": "Home Nursing & Elderly Care",
+   "question": "Do you provide post-surgical nursing care at home?",
+   "answer": "Yes, we offer specialized nursing services for post-operative recovery at home."
+ },
+ {
+   "category": "Home Nursing & Elderly Care",
+   "question": "What are the qualifications of your nurses?",
+   "answer": "All our nurses are certified and undergo thorough background verification."
+ },
+ {
+   "category": "Home Nursing & Elderly Care",
+   "question": "Can I book emergency nursing within an hour?",
+   "answer": "Yes, emergency bookings are available within 30–60 minutes in supported locations."
+ },
+ {
+   "category": "Home Nursing & Elderly Care",
+   "question": "Is there support for chronic illness or bedridden patients?",
+   "answer": "Yes, we provide long-term care options for chronic illness, paralysis, and elderly care."
+ },
+ {
+   "category": "Home Nursing & Elderly Care",
+   "question": "Do nurses assist with medicines and hygiene?",
+   "answer": "Yes, our caregivers assist with daily activities including medication, hygiene, and feeding support."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "How can I get help during postpartum recovery?",
+   "answer": "You can book postpartum caregivers, lactation consultants, or doulas through the Women's Care section."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Is there support for working women or first-time mothers?",
+   "answer": "Yes, our platform offers care plans tailored to working women and new mothers."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Can I track my postpartum recovery?",
+   "answer": "Yes, you can use built-in trackers and receive tips via the ReliefNet app."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Are the caregivers verified and safe?",
+   "answer": "All postpartum caregivers are background-checked and trained in maternal health."
+ },
+ {
+   "category": "Postpartum & Women's Care",
+   "question": "Do you offer emotional support or counselling for new mothers?",
+   "answer": "Yes, therapy and mental wellness support is integrated with postpartum care."
+ },
+ {
+   "category": "NGO & Volunteering",
+   "question": "How can I find NGOs to volunteer with?",
+   "answer": "You can browse verified NGOs by location or cause on the ReliefNet platform."
+ },
+ {
+   "category": "NGO & Volunteering",
+   "question": "Are donations tracked and safe?",
+   "answer": "Yes, all donations are traceable and linked to verified campaigns with receipts."
+ },
+ {
+   "category": "NGO & Volunteering",
+   "question": "Can I start a fundraiser for a medical or flood emergency?",
+   "answer": "ReliefNet allows verified users or NGOs to create emergency campaigns for public support."
+ },
+ {
+   "category": "NGO & Volunteering",
+   "question": "Is there a list of active relief drives I can support?",
+   "answer": "Yes, the NGO Network section highlights ongoing drives you can donate to or share."
+ },
+ {
+   "category": "NGO & Volunteering",
+   "question": "Can I donate anonymously or in someone’s name?",
+   "answer": "Yes, ReliefNet supports anonymous and tribute-based donations."
+ }
+]

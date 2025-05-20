@@ -13,7 +13,7 @@ from langchain_core.messages import SystemMessage, HumanMessage
 load_dotenv()
 
 # Load FAQ data
-with open("reliefnet_faq_100.json", "r") as f:
+with open("ReliefNet_Expanded_FAQ.json", "r") as f:
     faq_data = json.load(f)
 
 # Create a dictionary for fast lookup
